@@ -6,3 +6,17 @@
 #### About Me:
 
 I was born in 1997. I graduated from the university in 2019 and in 2021. And received a bachelor's degree and a master's degree in the specialty "Electrical Power Systems". For two years I worked at a manufacturing enterprise in my city. Once I got to the intensive "I am a web developer" and decided to change my activity forever.
+
+#### Skills:
+
+**I work confidently:**
++ HTML
++ CSS
++ Git
++ VS Code
++ Figma, Photoshop
+
+**I am acquiring skills in the following:**
+- JavaScript
+- ReactJS
+- DOM
