@@ -20,3 +20,14 @@ I was born in 1997. I graduated from the university in 2019 and in 2021. And rec
 - JavaScript
 - ReactJS
 - DOM
+
+#### Code Example:
+`My code you can find on my [GitHub](https://github.com/Maximilliar)`
+
+#### Education:
+**Omsk State Techincal University**
++ "Electrical Power Systems" bachelor
++ "Electrical Power Systems" master 
+
+#### English language:
+My English level is B1. In 2018 I graduated from the training "Translator in the field of professional communication" and i got diploma.
