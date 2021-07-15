@@ -10,7 +10,7 @@ p {
     margin: 0 0 10px;
 }
 
-/* Container ===================*/
+/* Conatiner ===================*/
 .container {
     width: 100%;
     max-width: 1200px;
@@ -18,6 +18,7 @@ p {
     padding: 0 15px;
 }
 
+/* Header ===================*/
 .header {
     width: 100%;
     height: 200px;
@@ -93,4 +94,36 @@ p {
     max-height: 84%;
     border-radius: 50%;
     border: 3px solid #FFF;
+}
+
+/* Header ===============!!!=*/
+
+/* Main ===================*/
+
+.info_block {
+    margin: 130px 55px 0 55px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.left_block {
+    width: 45%;
+    border-right: 3px solid #96b9c5;
+    margin-right: 30px;
+}
+
+.block_h1 {
+    width: 85%;
+    padding: 5px;
+}
+
+.main_h1 {
+    font-weight: 700;
+    font-size: 28px;
+    color: #003D74;
+    background-color: #e8f0f2;
+}
+
+.right_block {
+    width: 55%;
 }
