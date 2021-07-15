@@ -22,7 +22,8 @@ I was born in 1997. I graduated from the university in 2019 and in 2021. And rec
 - DOM
 
 #### Code Example:
-`My code you can find on my [GitHub](https://github.com/Maximilliar)`
+`My code you can find on my [GitHub]`<br>
+[Link to GitHub](https://github.com/Maximilliar)
 
 #### Education:
 **Omsk State Techincal University**
