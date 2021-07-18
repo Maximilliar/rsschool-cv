@@ -197,14 +197,38 @@ p {
 }
 
 .hobbies_li {
-    font-weight: 500;
-    font-size: 14px; 
+    font-weight: 700;
+    font-size: 18px; 
     margin-bottom: 15px;
+    color: #003D74;
 }
-
 
 
 .right_block {
     width: 55%;
 }
 
+.job_block {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-bottom: 17px;
+}
+
+.title_job {
+    font-size: 18px;
+    font-weight: 700;
+    color: #003D74;
+}
+
+.years_job {
+    font-size: 14px;
+    font-weight: 500;
+    color: #C6D9DF;
+}
+
+.footer_img {
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
