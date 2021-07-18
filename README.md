@@ -1,1 +1,1 @@
-https://Maximilliar.github.io/rsschool-cv/cv
+https://Maximilliar.github.io/rsschool-cv/
